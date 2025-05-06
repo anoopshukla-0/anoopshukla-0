@@ -1,12 +1,13 @@
+<div align="center">
+  
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there! I'm Anoop Shukla
 
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2988F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
   
   <p><em>Transitioning from content moderation to crafting scalable web applications</em></p>
-</div>
 
 > *"I believe the best 'function' in life is to keep 'returning' better."* 🔁✨
+</div>
 
 ## 👨‍💻 About Me
 
@@ -111,11 +112,11 @@ I'm a passionate **Full Stack Web Developer** with a drive for building modern, 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=anoopshukla-0&icon=0&color=1" alt="Profile Visitors" />
-</div>
-
-<div align="center">
-
-### Show some ❤️ by starring my repositories!
-
+  
+  ## 👀 Profile Visitors
+  
+  <img src="https://komarev.com/ghpvc/?username=anoopshukla-0&style=for-the-badge&color=blue" alt="Profile Visitors Counter"/>
+  
+  ### Show some ❤️ by starring my repositories!
+  
 </div>
