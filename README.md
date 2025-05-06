@@ -12,8 +12,10 @@
     <a href="https://codepen.io/Anoop-Shukla"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
   </p>
   
-  <!-- Animated visitor counter -->
-  <img src="https://count.getloli.com/get/@:anoopshukla-0?theme=rule34" alt="Profile Visitors" />
+  <!-- Animated visitor counter --><!-- Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/anoopshukla-0/count.svg" alt="Visitor Count" />
+</p>
   
   <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="600" />
