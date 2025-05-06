@@ -13,8 +13,11 @@
   </p>
 
   <!-- Visitor Counter -->
+<h3 align="center">👁️ Profile Visits</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anoopshukla-0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://github.com/anoopshukla-0" title="Profile Views">
+    <img align="center" alt="Profile Visits Counter" src="https://profile-counter.glitch.me/anoopshukla-0/count.svg" />
+  </a>
 </p>
   
   <!-- Random Dev Quote -->
@@ -29,10 +32,10 @@
 <details open>
   <summary><h2>📊 GitHub Analytics</h2></summary>
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=anoopshukla-0&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="45%" />
-    <img src="https://github-readme-stats.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+    <img src="https://streak-stats.demolab.com/?user=anoopshukla-0&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=FE428E&fire=FE428E&currStreakNum=F8D847&currStreakLabel=FE428E&sideNums=F8D847&sideLabels=F8D847&dates=9A839E" alt="GitHub Streak" width="45%" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F8D847&icon_color=F8D847&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
     <br />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopshukla-0&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" width="50%" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anoopshukla-0&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F8D847&text_color=FFFFFF&border_radius=10" alt="Most Used Languages" width="50%" />
   </div>
 </details>
 
@@ -109,11 +112,7 @@
 
 <div align="center">
   <!-- Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anoopshukla-0/anoopshukla-0/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anoopshukla-0/anoopshukla-0/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anoopshukla-0/anoopshukla-0/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://github.com/anoopshukla-0/anoopshukla-0/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
   
   <h2>📬 Get in Touch</h2>
   
@@ -130,8 +129,7 @@
 </div>
 
 <!-- 
-Note: To make the snake animation work, you'll need to set up a GitHub Action workflow.
-Create a file at .github/workflows/snake.yml with the following content:
+To make the snake animation work, create a file at .github/workflows/snake.yml with the following content:
 
 name: Generate Snake Animation
 
@@ -149,7 +147,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: anoopshukla-0
+          github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
           svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
       
