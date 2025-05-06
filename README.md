@@ -11,8 +11,8 @@
     <a href="https://www.youtube.com/@anoopshukla8256"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
     <a href="https://codepen.io/Anoop-Shukla"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
   </p>
-  
-  <!-- Animated visitor counter --><!-- Visitor Counter -->
+
+  <!-- Visitor Counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/anoopshukla-0/count.svg" alt="Visitor Count" />
 </p>
