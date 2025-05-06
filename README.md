@@ -1,122 +1,155 @@
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello there! I'm Anoop Shukla
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anoop%20Shukla&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=62)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2988F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=JavaScript+Aficionado;MERN+Stack+Expert;React+%26+Redux+Specialist;Frontend+Design+Enthusiast;Backend+Architecture+Developer;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
   
-  <p><em>Transitioning from content moderation to crafting scalable web applications</em></p>
+  <p><em>Experienced developer crafting seamless, scalable web experiences</em></p>
 
-> *"I believe the best 'function' in life is to keep 'returning' better."* 🔁✨
+  <p>
+    <a href="mailto:shuklaanoop1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/anoop-shukla-446010243/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://x.com/shuklaanoop1998"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" /></a>
+    <a href="https://www.youtube.com/@anoopshukla8256"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://codepen.io/Anoop-Shukla"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=anoopshukla-0&style=for-the-badge&color=blueviolet" alt="Profile Visitors" />
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="600" />
+
 </div>
 
-## 👨‍💻 About Me
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anoopshukla-0&theme=algolia&no-frame=true&column=7&margin-w=15" width="100%" alt="Trophy" />
+</p>
 
-I'm a passionate **Full Stack Web Developer** with a drive for building modern, user-friendly web applications. I enjoy creating clean user interfaces, solving real-world problems with code, and continuously expanding my technical knowledge. My journey from content moderation to web development fuels my unique perspective on creating accessible and impactful digital experiences.
+<details open>
+  <summary><h2>📊 GitHub Analytics</h2></summary>
+  <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopshukla-0&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopshukla-0&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" width="50%" />
+  </div>
+</details>
 
-## 🌐 Socials
-
-<div align="center">
+<details open>
+  <summary><h2>💻 Tech Arsenal</h2></summary>
+  <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-shukla-446010243/)
-  [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shuklaanoop1998)
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@anoopshukla8256)
-  [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Anoop-Shukla)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklaanoop1998@gmail.com)
-  
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-  
+  ### Frontend
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  ### Backend
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  
+  ### Languages
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
-</div>
-
-## 🚀 Deployment Platforms
-
-<div align="center">
-  
+  ### Deployment & Tools
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  </div>
+</details>
+
+<details open>
+  <summary><h2>🚀 Current Endeavors</h2></summary>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anoopshukla-0&theme=tokyo-night&hide_border=true" width="90%" alt="Activity Graph" />
+  </div>
   
-</div>
+  ### Working On
+  - 🔭 **Advanced MERN Stack Applications** with GraphQL integration and real-time features
+  - 🌐 **Responsive UI/UX Design Systems** implementing modern design principles
+  - 🧪 **Test-Driven Development Practices** for robust application architecture
+  
+  ### Learning
+  - 🌱 **Advanced Redux Patterns** and state management solutions
+  - 🧠 **MongoDB Aggregation Pipelines** for complex data operations
+  - 📊 **Data Structures & Algorithms** with JavaScript implementation
+  - 🔧 **CI/CD Pipelines** for seamless deployment workflows
+  
+  ### Collaborations
+  - 👯 **React Component Libraries** with reusable design systems
+  - 🤝 **Open-Source Projects** that make development more accessible
+  - 💼 **Full-Stack Applications** solving real-world business challenges
+</details>
 
-## 🔭 What I'm Currently Working On
-
-- **MERN stack projects** with real-world applications
-- **Frontend UI/UX challenges** to perfect responsive designs
-- **Building a portfolio** of full-stack applications
-
-## 🌱 I'm Currently Learning
-
-- **Redux** for advanced state management
-- **MongoDB** for database operations
-- **Backend integration** techniques
-- **Data Structures and Algorithms** to enhance problem-solving
-
-## 👯 I'm Looking To Collaborate On
-
-- **React.js projects** with practical applications
-- **Open-source beginner-friendly projects** to gain experience
-- **Frontend component libraries** that improve UX
-
-## 💬 Ask Me About
-
-- **HTML & CSS** implementation strategies
-- **GitHub setup** and version control workflows
-- **Web dev career transitions** - insights from my journey
-- **Frontend development** best practices
-
-## 📊 GitHub Stats
+<details open>
+  <summary><h2>💡 Professional Expertise</h2></summary>
+  
+  > *"I believe the best 'function' in life is to keep 'returning' better."* 🔁✨
+  
+  ### Ask Me About
+  - 🏗️ **Frontend Architecture** - Building scalable and maintainable UI systems
+  - 🔌 **API Integration** - Connecting frontend and backend services seamlessly
+  - 🎨 **UI/UX Implementation** - Translating designs into responsive code
+  - 🧩 **State Management** - Organizing application data for optimal performance
+  - 📱 **Responsive Design** - Creating mobile-first, accessible interfaces
+  - 🛠️ **Development Workflows** - Git, CI/CD, and project management best practices
+  
+  ### Professional Journey
+  I've transitioned from content moderation to full-stack development, bringing a unique perspective on creating user-centric experiences. My background gives me insights into content accessibility and user engagement that inform my development approach.
+</details>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anoopshukla-0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=anoopshukla-0&theme=blue_navy&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopshukla-0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Most Used Languages" />
+
+  ![Snake animation](https://github.com/anoopshukla-0/anoopshukla-0/blob/output/github-contribution-grid-snake-dark.svg)
+  
+  <h2>📬 Get in Touch</h2>
+  
+  <p>Let's discuss how we can collaborate on your next project!</p>
+  
+  [![Email Badge](https://img.shields.io/badge/-shuklaanoop1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shuklaanoop1998@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-Anoop_Shukla-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-shukla-446010243/)
+  
+  <hr />
+  
+  ### 🌟 Show some love by starring my repositories!
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 </div>
 
-## 🏆 Top Contributed Repositories
+<!-- 
+Note: To make the snake animation work, you'll need to set up a GitHub Action workflow.
+Create a file at .github/workflows/snake.yml with the following content:
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=anoopshukla-0&limit=5&theme=blue_navy&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+name: Generate Snake Animation
 
-## 📝 Random Dev Quote
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote" />
-</div>
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: anoopshukla-0
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          snake_color: 'blue'
 
-## 📫 How to Reach Me
-
-- 📧 **Email:** shuklaanoop1998@gmail.com
-- 💼 **LinkedIn:** [Anoop Shukla](https://www.linkedin.com/in/anoop-shukla-446010243/)
-- 🐦 **X (Twitter):** [@shuklaanoop1998](https://x.com/shuklaanoop1998)
-- 🎥 **YouTube:** [@anoopshukla8256](https://www.youtube.com/@anoopshukla8256)
-- 🖊️ **CodePen:** [Anoop-Shukla](https://codepen.io/Anoop-Shukla)
-
----
-
-<div align="center">
-  
-  ## 👀 Profile Visitors
-  
-  <img src="https://komarev.com/ghpvc/?username=anoopshukla-0&style=for-the-badge&color=blue" alt="Profile Visitors Counter"/>
-  
-  ### Show some ❤️ by starring my repositories!
-  
-</div>
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+-->
