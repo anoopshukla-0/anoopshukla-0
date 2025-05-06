@@ -1,24 +1,101 @@
-# 💫 About Me:
-## 👋 Hello there! I'm Anoop Shukla<br><br>I'm a passionate **Full Stack Web Developer** currently transitioning from a background in content moderation to crafting scalable web applications.  <br>I enjoy building clean user interfaces, solving real-world problems with code, and continuously learning new technologies.<br><br>---<br><br>🔭 I’m currently working on **MERN stack projects and frontend challenges**  <br>👯 I’m looking to collaborate on **React.js and open-source beginner-friendly projects**  <br>🤝 I’m looking for help with **JavaScript, Data Structures, and Algorithms**  <br>🌱 I’m currently learning **Redux, MongoDB, and backend integration**  <br>💬 Ask me about **HTML, CSS, GitHub setup, or web dev career transitions**  <br>⚡ *I believe the best 'function' in life is to keep 'returning' better.* 🔁✨<br><br>---<br>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi there, I'm Anoop Shukla
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=2988F7&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Problem+Solver;Clean+Code+Advocate" alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anoop-shukla-446010243/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/shuklaanoop1998) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@anoopshukla8256) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Anoop-Shukla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklaanoop1998@gmail.com) 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](YOUR_PORTFOLIO_LINK)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anoopshukla-0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=anoopshukla-0&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopshukla-0&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 👨‍💻 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+I'm a passionate **Full Stack Web Developer** dedicated to crafting modern, user-friendly, and scalable web applications. My expertise lies in building responsive UIs, implementing robust backends, and writing clean, maintainable code that solves real-world problems.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anoopshukla-0&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+> *"I believe the best 'function' in life is to keep 'returning' better."* 🔁✨
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+  ![REST API](https://img.shields.io/badge/-REST%20API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+  
+</div>
+
+## 🔭 What I'm Currently Working On
+
+- **Dynamic MERN stack applications** with real-world applications
+- **Frontend UI/UX challenges** to perfect responsive designs
+- **API integration projects** connecting multiple services
+- **Performance optimization** for web applications
+
+## 🌱 I'm Currently Learning
+
+- **Advanced Redux patterns** and state management techniques
+- **MongoDB aggregation pipelines** for complex data operations
+- **Microservices architecture** for scalable applications
+- **Testing frameworks** for robust application development
+- **CI/CD pipelines** for automated deployment
+
+## 👯 I'm Looking to Collaborate On
+
+- **Open-source React.js projects** with community impact
+- **Full-stack applications** solving practical problems
+- **UI component libraries** and design systems
+- **Developer tools** that improve workflow efficiency
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Most Used Languages" height="170" />
+</div>
+
+## 🏆 Projects
+
+<div align="center">
+  <a href="YOUR_PROJECT_LINK_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_1&theme=tokyonight" alt="Project 1" />
+  </a>
+  <a href="YOUR_PROJECT_LINK_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_REPO_2&theme=tokyonight" alt="Project 2" />
+  </a>
+</div>
+
+## 💬 Let's Connect & Discuss
+
+I'm always open to interesting conversations about:
+- **JavaScript ecosystem** and best practices
+- **Data Structures & Algorithms** for optimal solutions
+- **System Design** approaches for web applications
+- **Web development trends** and emerging technologies
+- **Code optimization** and performance improvements
+
+## 📫 How to Reach Me
+
+- 📧 **Email:** YOUR_EMAIL
+- 💼 **LinkedIn:** [YOUR_NAME](YOUR_LINKEDIN_LINK)
+- 🌐 **Portfolio:** [YOUR_NAME.dev](YOUR_PORTFOLIO_LINK)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anoopshukla-0&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
