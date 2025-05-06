@@ -14,7 +14,7 @@
 
   <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/anoopshukla-0/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=anoopshukla-0&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
   
   <!-- Random Dev Quote -->
@@ -29,12 +29,10 @@
 <details open>
   <summary><h2>📊 GitHub Analytics</h2></summary>
   <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopshukla-0&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="45%" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anoopshukla-0&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
     <br />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anoopshukla-0&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" width="50%" />
-  </div>
-</details>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopshukla-0&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Used Languages" width="50%" />
   </div>
 </details>
 
