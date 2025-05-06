@@ -27,11 +27,6 @@
 <details open>
   <summary><h2>📊 GitHub Analytics</h2></summary>
   <div align="center">
-    <!-- Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopshukla-0&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="45%" />
-    <details open>
-  <summary><h2>📊 GitHub Analytics</h2></summary>
-  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=anoopshukla-0&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" width="45%" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
     <br />
