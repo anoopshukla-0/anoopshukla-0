@@ -111,9 +111,7 @@
 </details>
 
 <div align="center">
-  <!-- Snake Animation -->
-  <img src="https://github.com/anoopshukla-0/anoopshukla-0/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-  
+
   <h2>📬 Get in Touch</h2>
   
   <p>Let's discuss how we can collaborate on your next project!</p>
