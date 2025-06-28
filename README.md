@@ -16,7 +16,6 @@
     <a href="https://codepen.io/Anoop-Shukla"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
   </p>
 
-  <!-- Visitor Counter -->
   <h3 align="center">👁️ Profile Visits</h3>
   <p align="center">
     <a href="https://github.com/anoopshukla-0" title="Profile Views">
@@ -24,11 +23,11 @@
     </a>
   </p>
 
-  <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="600" />
 </div>
 
-<!-- GitHub Trophy -->
+---
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anoopshukla-0&theme=algolia&no-frame=true&column=7&margin-w=15" width="100%" alt="Trophy" />
 </p>
@@ -37,9 +36,12 @@
   <summary><h2>📊 GitHub Analytics</h2></summary>
   <div align="center">
     <img src="https://streak-stats.demolab.com/?user=anoopshukla-0&theme=radical&border=7F3FBF&background=0D1117&stroke=7F3FBF&ring=FE428E&fire=FE428E&currStreakNum=F8D847&currStreakLabel=FE428E&sideNums=F8D847&sideLabels=F8D847&dates=9A839E" alt="GitHub Streak" width="45%" />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F8D847&icon_color=F8D847&text_color=FFFFFF&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+    
+    <img src="https://github-readme-stats.vercel.app/api?username=anoopshukla-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+    
     <br />
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anoopshukla-0&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F8D847&text_color=FFFFFF&border_radius=10" alt="Most Used Languages" width="50%" />
+    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoopshukla-0&layout=compact&theme=radical" alt="Top Languages" width="50%" />
   </div>
 </details>
 
@@ -81,20 +83,20 @@
   </div>
   
   ### Working On
-  - 🔭 **Advanced MERN Stack Applications** with GraphQL integration and real-time features
-  - 🌐 **Responsive UI/UX Design Systems** implementing modern design principles
-  - 🧪 **Test-Driven Development Practices** for robust application architecture
+  - 🔭 Advanced MERN Stack Applications with GraphQL & real-time features
+  - 🌐 Responsive UI/UX Design Systems
+  - 🧪 Test-Driven Development for scalable apps
   
   ### Learning
-  - 🌱 **Advanced Redux Patterns** and state management solutions
-  - 🧠 **MongoDB Aggregation Pipelines** for complex data operations
-  - 📊 **Data Structures & Algorithms** with JavaScript implementation
-  - 🔧 **CI/CD Pipelines** for seamless deployment workflows
+  - 🌱 Advanced Redux Patterns
+  - 🧠 MongoDB Aggregation Pipelines
+  - 📊 Data Structures & Algorithms in JS
+  - 🔧 CI/CD Workflows for automation
   
   ### Collaborations
-  - 👯 **React Component Libraries** with reusable design systems
-  - 🤝 **Open-Source Projects** that make development more accessible
-  - 💼 **Full-Stack Applications** solving real-world business challenges
+  - 👯 Reusable React Component Libraries
+  - 🤝 Open-Source Projects
+  - 💼 Full-Stack Business Applications
 </details>
 
 <details open>
@@ -103,28 +105,28 @@
   > *"I believe the best 'function' in life is to keep 'returning' better."* 🔁✨
   
   ### Ask Me About
-  - 🏗️ **Frontend Architecture**
-  - 🔌 **API Integration**
-  - 🎨 **UI/UX Implementation**
-  - 🧩 **State Management**
-  - 📱 **Responsive Design**
-  - 🛠️ **Dev Workflows (Git, CI/CD, PM tools)**
+  - 🏗️ Frontend Architecture
+  - 🔌 API Integration
+  - 🎨 UI/UX Design Implementation
+  - 🧩 State Management (Redux, Context)
+  - 📱 Mobile-First & Responsive Design
+  - 🛠️ Git, CI/CD, Agile Practices
   
-  ### Journey
-  From content moderation to crafting full-stack applications — I bring a unique user-focused perspective to development with strong communication and discipline.
+  ### My Journey
+  Transitioning from content moderation to full-stack development, I bring real-world empathy, discipline, and a strong eye for detail into building meaningful web experiences.
 </details>
 
 <div align="center">
 
   <h2>📬 Get in Touch</h2>
-  <p>Let’s build something amazing together!</p>
+  <p>Let’s collaborate and build something amazing!</p>
   
   [![Email Badge](https://img.shields.io/badge/-shuklaanoop1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shuklaanoop1998@gmail.com)
   [![LinkedIn Badge](https://img.shields.io/badge/-Anoop_Shukla-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-shukla-446010243/)
   
   <hr />
   
-  ### 🌟 Show some love by starring my repositories!
+  ### 🌟 Star and follow for more cool projects!
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 </div>
