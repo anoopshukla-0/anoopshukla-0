@@ -1,9 +1,13 @@
 <div align="center">
   
   ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anoop%20Shukla&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descAlign=62)
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=JavaScript+Aficionado;MERN+Stack+Expert;React+%26+Redux+Specialist;Frontend+Design+Enthusiast;Backend+Architecture+Developer;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" /></a>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=JavaScript+Aficionado;MERN+Stack+Expert;React+%26+Redux+Specialist;Frontend+Design+Enthusiast;Backend+Architecture+Developer;Problem+Solver;Always+Learning+%26+Growing" alt="Typing SVG" />
+  </a>
   
   <p><em>Experienced developer crafting seamless, scalable web experiences</em></p>
+  
   <p>
     <a href="mailto:shuklaanoop1998@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.linkedin.com/in/anoop-shukla-446010243/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -13,13 +17,13 @@
   </p>
 
   <!-- Visitor Counter -->
-<h3 align="center">👁️ Profile Visits</h3>
-<p align="center">
-  <a href="https://github.com/anoopshukla-0" title="Profile Views">
-    <img align="center" alt="Profile Visits Counter" src="https://profile-counter.glitch.me/anoopshukla-0/count.svg" />
-  </a>
-</p>
-  
+  <h3 align="center">👁️ Profile Visits</h3>
+  <p align="center">
+    <a href="https://github.com/anoopshukla-0" title="Profile Views">
+      <img align="center" alt="Profile Visits Counter" src="https://profile-counter.glitch.me/anoopshukla-0/count.svg" />
+    </a>
+  </p>
+
   <!-- Random Dev Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" width="600" />
 </div>
@@ -42,7 +46,7 @@
 <details open>
   <summary><h2>💻 Tech Arsenal</h2></summary>
   <div align="center">
-  
+
   ### Frontend
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -50,17 +54,17 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
+
   ### Backend
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  
+
   ### Languages
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  
+
   ### Deployment & Tools
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
@@ -99,22 +103,21 @@
   > *"I believe the best 'function' in life is to keep 'returning' better."* 🔁✨
   
   ### Ask Me About
-  - 🏗️ **Frontend Architecture** - Building scalable and maintainable UI systems
-  - 🔌 **API Integration** - Connecting frontend and backend services seamlessly
-  - 🎨 **UI/UX Implementation** - Translating designs into responsive code
-  - 🧩 **State Management** - Organizing application data for optimal performance
-  - 📱 **Responsive Design** - Creating mobile-first, accessible interfaces
-  - 🛠️ **Development Workflows** - Git, CI/CD, and project management best practices
+  - 🏗️ **Frontend Architecture**
+  - 🔌 **API Integration**
+  - 🎨 **UI/UX Implementation**
+  - 🧩 **State Management**
+  - 📱 **Responsive Design**
+  - 🛠️ **Dev Workflows (Git, CI/CD, PM tools)**
   
-  ### Professional Journey
-  I've transitioned from content moderation to full-stack development, bringing a unique perspective on creating user-centric experiences. My background gives me insights into content accessibility and user engagement that inform my development approach.
+  ### Journey
+  From content moderation to crafting full-stack applications — I bring a unique user-focused perspective to development with strong communication and discipline.
 </details>
 
 <div align="center">
 
   <h2>📬 Get in Touch</h2>
-  
-  <p>Let's discuss how we can collaborate on your next project!</p>
+  <p>Let’s build something amazing together!</p>
   
   [![Email Badge](https://img.shields.io/badge/-shuklaanoop1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:shuklaanoop1998@gmail.com)
   [![LinkedIn Badge](https://img.shields.io/badge/-Anoop_Shukla-0072b1?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anoop-shukla-446010243/)
@@ -125,34 +128,3 @@
   
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 </div>
-
-<!-- 
-To make the snake animation work, create a file at .github/workflows/snake.yml with the following content:
-
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs at midnight every day
-  workflow_dispatch:  # Allows manual triggering
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
-      
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
